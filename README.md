@@ -1,5 +1,5 @@
 🦠🧫🧬
-- 👋 Hi, I’m Jaqkub Barylski administrator of @zwmuam
+- 👋 Hi, I’m Jakub Barylski administrator of @zwmuam
 - 👀 I’m interested in Bioinformatics, Genomics, Microbiology, Python
 - 🌱 I’m currently learning Machine learning (_nomen est omen_ :wink: )
 - 💞️ I’m looking to collaborate on Bacteriophage-related bioinformatic projects
